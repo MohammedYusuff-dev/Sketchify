@@ -4,7 +4,7 @@ Turn any image into a clean, realistic pencil sketch using advanced image proces
 
 This project goes beyond basic sketch filters by combining tone mapping, local contrast enhancement, and intelligent edge blending to produce a more natural graphite look.
 
----
+----
 
 ## ⚡ Features
 
